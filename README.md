@@ -1,3 +1,15 @@
+# LBAW Class Assignments and Projects
+
+> **2019/2020** - 3rd Year, 2nd Semester
+>
+> **Course:** Laboratório de Bases de Dados e Aplicações Web ([LBAW](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436452)) | Databases and Web Development Lab
+>
+> **Projects developed by:** David Silva ([daviddias99](https://github.com/daviddias99)), Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00)), Luís Cunha ([luispcunha](https://github.com/luispcunha)) and Manuel Coutinho ([ManelCoutinho](https://github.com/ManelCoutinho))
+>
+> **Project Grade**: 19.4 / 20
+
+**Disclaimer** - This repository was used for educational purposes and I do not take any responsibility for anything related to its content. You are free to use any code or algorithm you find, but do so at your own risk.
+
 # NewsLab (Collaborative News)
 
 ## Project
