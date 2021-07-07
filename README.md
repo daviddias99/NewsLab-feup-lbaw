@@ -38,19 +38,19 @@
 ### Artefacts
 
 * User Requirements specification
-  * [A1: Project presentation](./wiki/a1.md)
-  * [A2: Actors and User stories](./wiki/a2.md)
-  * [A3: User Interfaces Prototype](./wiki/a3.md)
+  * [A1: Project presentation](./wikis/a1.md)
+  * [A2: Actors and User stories](./wikis/a2.md)
+  * [A3: User Interfaces Prototype](./wikis/a3.md)
 * Database specification
-  * [A4: Conceptual Data Model](./wiki/a4.md)
-  * [A5: Relational schema, validation and schema refinement](./wiki/a5.md)
-  * [A6: Integrity constraints. Indexes, triggers, user functions, transactions and database populated with data](./wiki/a6.md)
+  * [A4: Conceptual Data Model](./wikis/a4.md)
+  * [A5: Relational schema, validation and schema refinement](./wikis/a5.md)
+  * [A6: Integrity constraints. Indexes, triggers, user functions, transactions and database populated with data](./wikis/a6.md)
 * Architecture specification and Prototype
-  * [A7: High-level architecture. Privileges. Web resources specification](./wiki/a7.md)
-  * [A8: Vertical Prototype](./wiki/a8.md)
+  * [A7: High-level architecture. Privileges. Web resources specification](./wikis/a7.md)
+  * [A8: Vertical Prototype](./wikis/a8.md)
 * Product and Presentation
-  * [A9: Product](./wiki/a9.md)
-  * [A10: Presentation and discussion](./wiki/a10.md)
+  * [A9: Product](./wikis/a9.md)
+  * [A10: Presentation and discussion](./wikis/a10.md)
 
 ### Instalation and usage
 
